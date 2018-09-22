@@ -72,4 +72,4 @@
 	url = https://github.com/LGP5/Chapter24.git
 [submodule "Unit-Testing"]
 	path = Unit-Testing
-	url = https://github.com/LGP5/Unit-Testing.git
+	url = git@github.com:LGP5/Unit-Testing.git
