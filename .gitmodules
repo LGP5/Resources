@@ -79,3 +79,6 @@
 	path = LVOOP
 
 	url = https://github.com/LGP5/LVOOP.git
+[submodule "Frameworks"]
+	path = Frameworks
+	url = https://github.com/LGP5/Frameworks.git
