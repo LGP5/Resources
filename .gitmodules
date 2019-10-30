@@ -22,54 +22,6 @@
 [submodule "Chapter8"]
 	path = Chapter8
 	url = https://github.com/LGP5/Chapter8.git
-[submodule "Chapter9"]
-	path = Chapter9
-	url = https://github.com/LGP5/Chapter9.git
-[submodule "Chapter10"]
-	path = Chapter10
-	url = https://github.com/LGP5/Chapter10.git
-[submodule "Chapter11"]
-	path = Chapter11
-	url = https://github.com/LGP5/Chapter11.git
-[submodule "Chapter12"]
-	path = Chapter12
-	url = https://github.com/LGP5/Chapter12.git
-[submodule "Chapter13"]
-	path = Chapter13
-	url = https://github.com/LGP5/Chapter13.git
-[submodule "Chapter14"]
-	path = Chapter14
-	url = https://github.com/LGP5/Chapter14.git
-[submodule "Chapter15"]
-	path = Chapter15
-	url = https://github.com/LGP5/Chapter15.git
-[submodule "Chapter16"]
-	path = Chapter16
-	url = https://github.com/LGP5/Chapter16.git
-[submodule "Chapter17"]
-	path = Chapter17
-	url = https://github.com/LGP5/Chapter17.git
-[submodule "Chapter18"]
-	path = Chapter18
-	url = https://github.com/LGP5/Chapter18.git
-[submodule "Chapter19"]
-	path = Chapter19
-	url = https://github.com/LGP5/Chapter19.git
-[submodule "Chapter20"]
-	path = Chapter20
-	url = https://github.com/LGP5/Chapter20.git
-[submodule "Chapter21"]
-	path = Chapter21
-	url = https://github.com/LGP5/Chapter21.git
-[submodule "Chapter22"]
-	path = Chapter22
-	url = https://github.com/LGP5/Chapter22.git
-[submodule "Chapter23"]
-	path = Chapter23
-	url = https://github.com/LGP5/Chapter23.git
-[submodule "Chapter24"]
-	path = Chapter24
-	url = https://github.com/LGP5/Chapter24.git
 [submodule "Unit-Testing"]
 	path = Unit-Testing
         url=https://github.com/LGP5/Unit-Testing.git
