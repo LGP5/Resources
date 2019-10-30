@@ -13,3 +13,6 @@
 [submodule "Frameworks"]
 	path = Frameworks
 	url = https://github.com/LGP5/Frameworks.git
+[submodule "Timing"]
+	path = Timing
+	url = https://github.com/LGP5/Timing.git
