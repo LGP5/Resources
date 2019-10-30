@@ -1,6 +1,6 @@
-[submodule "Chapter8"]
-	path = Chapter8
-url=https://github.com/LGP5/Messaging.git
+[submodule "Messaging"]
+	path = Messaging
+	url = https://github.com/LGP5/Messaging.git
 [submodule "Unit-Testing"]
 	path = Unit-Testing
         url=https://github.com/LGP5/Unit-Testing.git
