@@ -1,24 +1,3 @@
-[submodule "Chapter1"]
-	path = Chapter1
-	url = https://github.com/LGP5/Chapter1.git
-[submodule "Chapter2"]
-	path = Chapter2
-	url = https://github.com/LGP5/Chapter2.git
-[submodule "Chapter3"]
-	path = Chapter3
-	url = https://github.com/LGP5/Chapter3.git
-[submodule "Chapter4"]
-	path = Chapter4
-	url = https://github.com/LGP5/Chapter4.git
-[submodule "Chapter5"]
-	path = Chapter5
-	url = https://github.com/LGP5/Chapter5.git
-[submodule "Chapter6"]
-	path = Chapter6
-	url = https://github.com/LGP5/Chapter6.git
-[submodule "Chapter7"]
-	path = Chapter7
-	url = https://github.com/LGP5/Chapter7.git
 [submodule "Chapter8"]
 	path = Chapter8
 	url = https://github.com/LGP5/Chapter8.git
