@@ -16,3 +16,6 @@
 [submodule "Timing"]
 	path = Timing
 	url = https://github.com/LGP5/Timing.git
+[submodule "Fundamentals"]
+	path = Fundamentals
+	url = https://github.com/LGP5/Fundamentals.git
