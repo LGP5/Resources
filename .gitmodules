@@ -19,3 +19,6 @@
 [submodule "Fundamentals"]
 	path = Fundamentals
 	url = https://github.com/LGP5/Fundamentals.git
+[submodule "DAQ"]
+	path = DAQ
+	url = https://github.com/LGP5/DAQ.git
