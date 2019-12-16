@@ -1,0 +1,12 @@
+Errata
+
+#Chapter 1
+
+On page 22, Fig. 1.8 says "celebrating the 35th anniversary of LAbVIEW", it should have said 25th anniversary (reported by David Corney)
+On page 24, footnote 6 : info-labview.org/Info-LabVIEW should be info-labview.org/infolabview (reported by Stefan Lemmens)
+
+#Chapter 2
+On page 66, text says "It means the two For Loops in Fig. 2.3", it should say Fig. 2.2 (reported by Enrique Noé Arias)
+
+#Back cover
+Should say DAQmx instead of DAQmix (reported by Enrique Noé Arias)
