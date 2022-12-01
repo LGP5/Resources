@@ -2,7 +2,7 @@
 
 This repository contains as submodules all the repositories for the different chapters in the LabVIEW Graphical Programming, Fifth Edition book.
 
-https://www.mhprofessional.com/9781260135268-usa-labview-graphical-programming-fifth-edition-group
+https://www.mhprofessional.com/labview-graphical-programming-fifth-edition-9781260135268-usa
 
 When cloning this repository all the submodules will be cloned as well.
 
